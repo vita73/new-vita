@@ -8,3 +8,5 @@
 
 - Log correlation IDs for multi-service flows.
 
+- Limit payload size to keep responses snappy.
+
