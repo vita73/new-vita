@@ -10,3 +10,5 @@
 
 - Limit payload size to keep responses snappy.
 
+- Document rate limits next to the endpoint list.
+
