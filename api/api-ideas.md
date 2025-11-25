@@ -12,3 +12,5 @@
 
 - Document rate limits next to the endpoint list.
 
+- Avoid coupling response shapes to internal models.
+
