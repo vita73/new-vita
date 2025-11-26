@@ -14,3 +14,5 @@
 
 - Avoid coupling response shapes to internal models.
 
+- Keep authentication and authorization well separated.
+
