@@ -16,3 +16,5 @@
 
 - Keep authentication and authorization well separated.
 
+- Keep API contracts stable once published.
+
