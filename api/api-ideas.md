@@ -18,3 +18,5 @@
 
 - Keep API contracts stable once published.
 
+- Prefer explicit enums over free-form strings.
+
