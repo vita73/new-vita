@@ -20,3 +20,5 @@
 
 - Prefer explicit enums over free-form strings.
 
+- Return structured error payloads with clear codes.
+
