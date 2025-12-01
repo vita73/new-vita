@@ -22,3 +22,5 @@
 
 - Return structured error payloads with clear codes.
 
+- Log correlation IDs for multi-service flows.
+
