@@ -24,3 +24,5 @@
 
 - Log correlation IDs for multi-service flows.
 
+- Separate public and internal endpoints clearly.
+
