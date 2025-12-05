@@ -26,3 +26,5 @@
 
 - Separate public and internal endpoints clearly.
 
+- Avoid coupling response shapes to internal models.
+
