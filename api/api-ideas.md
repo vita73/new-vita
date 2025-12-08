@@ -30,3 +30,7 @@
 
 - Keep authentication and authorization well separated.
 
+
+Consider adding a `CHANGELOG.md` file to track changes and versioning.
+Explore potential integrations with other services or platforms.
+
