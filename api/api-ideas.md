@@ -34,3 +34,7 @@
 Consider adding a `CHANGELOG.md` file to track changes and versioning.
 Explore potential integrations with other services or platforms.
 
+
+Consider adding a "Contributing" guide to outline how others can participate.
+Think about integrating a simple CI/CD pipeline for automated testing and deployment.
+
