@@ -38,3 +38,7 @@ Explore potential integrations with other services or platforms.
 Consider adding a "Contributing" guide to outline how others can participate.
 Think about integrating a simple CI/CD pipeline for automated testing and deployment.
 
+
+Consider a dedicated "contributing.md" file for clear guidelines on how to contribute.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
