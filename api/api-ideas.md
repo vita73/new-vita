@@ -47,3 +47,7 @@ Consider a README section outlining the project's architectural vision and how i
 
 Explore potential integrations with existing wellness or productivity platforms.
 
+
+Consider adding a contribution guide.
+Explore integration with other popular health/wellness APIs.
+
