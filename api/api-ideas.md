@@ -51,3 +51,7 @@ Explore potential integrations with existing wellness or productivity platforms.
 Consider adding a contribution guide.
 Explore integration with other popular health/wellness APIs.
 
+
+Consider a section for community contributions and feature requests.
+Explore options for integrating with popular task management or journaling apps.
+
