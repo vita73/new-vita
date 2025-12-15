@@ -59,3 +59,7 @@ Explore options for integrating with popular task management or journaling apps.
 Consider adding a README explaining the project's purpose and setup.
 Explore potential integrations with other health and wellness APIs.
 
+
+Explore a `docs/` directory for onboarding guides and architectural diagrams.
+Consider a `scripts/` directory for utility tasks like data cleaning or model evaluation.
+
