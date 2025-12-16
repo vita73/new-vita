@@ -63,3 +63,7 @@ Explore potential integrations with other health and wellness APIs.
 Explore a `docs/` directory for onboarding guides and architectural diagrams.
 Consider a `scripts/` directory for utility tasks like data cleaning or model evaluation.
 
+
+Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
+Explore integrating CI/CD pipelines for automated testing and deployment.
+
