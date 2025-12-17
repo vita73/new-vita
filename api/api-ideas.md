@@ -67,3 +67,7 @@ Consider a `scripts/` directory for utility tasks like data cleaning or model ev
 Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
 Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+- Implement a comprehensive README with installation instructions, usage examples, and contribution guidelines.
+- Consider a CI/CD pipeline for automated testing and deployment.
+
