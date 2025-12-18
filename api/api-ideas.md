@@ -71,3 +71,7 @@ Explore integrating CI/CD pipelines for automated testing and deployment.
 - Implement a comprehensive README with installation instructions, usage examples, and contribution guidelines.
 - Consider a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a "Contributing Guide" to outline how others can contribute.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
