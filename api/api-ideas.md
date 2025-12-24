@@ -91,3 +91,7 @@ Explore options for a CI/CD pipeline for automated testing and deployment.
 Consider integrating a "Quick Start" guide or tutorial for new users.
 Explore options for user authentication and role-based access control if the project grows to handle sensitive data.
 
+
+- Consider integrating a RESTful API for external services.
+- Explore adding user authentication and authorization mechanisms.
+
