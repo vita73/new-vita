@@ -104,3 +104,8 @@ Consider adding a "Contribution Guidelines" file (CONTRIBUTING.md) to clarify ho
 
 Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README.md file to outline the project's purpose, setup instructions, and contribution guidelines.
+
+Explore the possibility of integrating a testing framework to ensure code quality and stability.
+
