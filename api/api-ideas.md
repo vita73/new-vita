@@ -118,3 +118,8 @@ Consider adding a section on best practices for using `new-vita` in a production
 
 Explore the possibility of integrating `new-vita` with common CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
