@@ -131,3 +131,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Feature: User profile customization with avatars and bios.
 Tech Stack: Explore GraphQL for efficient data fetching.
 
+
+**Note 1:** Consider a CI/CD pipeline for automated testing and deployment.
+**Note 2:** Explore integration with cloud services for scalability and data storage.
+
