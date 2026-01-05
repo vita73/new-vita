@@ -135,3 +135,7 @@ Tech Stack: Explore GraphQL for efficient data fetching.
 **Note 1:** Consider a CI/CD pipeline for automated testing and deployment.
 **Note 2:** Explore integration with cloud services for scalability and data storage.
 
+
+Consider adding a contribution guide detailing setup, testing, and code style.
+Explore options for internationalization (i18n) to support multiple languages from the outset.
+
