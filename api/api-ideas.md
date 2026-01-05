@@ -139,3 +139,7 @@ Tech Stack: Explore GraphQL for efficient data fetching.
 Consider adding a contribution guide detailing setup, testing, and code style.
 Explore options for internationalization (i18n) to support multiple languages from the outset.
 
+
+Consider adding a contribution guide.
+Explore options for CI/CD integration.
+
