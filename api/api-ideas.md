@@ -143,3 +143,7 @@ Explore options for internationalization (i18n) to support multiple languages fr
 Consider adding a contribution guide.
 Explore options for CI/CD integration.
 
+
+Consider adding a README.md file with clear instructions on how to set up and run the project.
+Explore using a version control system like Git for tracking changes and collaboration.
+
