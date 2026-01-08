@@ -147,3 +147,7 @@ Explore options for CI/CD integration.
 Consider adding a README.md file with clear instructions on how to set up and run the project.
 Explore using a version control system like Git for tracking changes and collaboration.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
