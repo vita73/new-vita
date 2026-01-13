@@ -155,3 +155,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider a `docs` folder for comprehensive usage guides and API documentation.
 Explore potential integrations with external services or libraries to enhance functionality.
 
+
+Consider adding automated testing.
+Explore CI/CD pipeline integration.
+
