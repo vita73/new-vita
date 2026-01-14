@@ -163,3 +163,7 @@ Explore CI/CD pipeline integration.
 - Consider a `CONTRIBUTING.md` file outlining the process for submitting issues and pull requests.
 - Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a `docs/` directory for project documentation.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
