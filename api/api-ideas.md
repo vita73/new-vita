@@ -159,3 +159,7 @@ Explore potential integrations with external services or libraries to enhance fu
 Consider adding automated testing.
 Explore CI/CD pipeline integration.
 
+
+- Consider a `CONTRIBUTING.md` file outlining the process for submitting issues and pull requests.
+- Explore integrating a CI/CD pipeline for automated testing and deployment.
+
