@@ -173,3 +173,7 @@ New-vita:
 *   Consider a clear and concise README outlining the project's purpose, setup, and contribution guidelines.
 *   Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider a CI/CD pipeline for automated testing and deployment.
+- Explore using a framework like Nuxt.js for server-side rendering and improved SEO.
+
