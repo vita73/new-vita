@@ -177,3 +177,8 @@ New-vita:
 - Consider a CI/CD pipeline for automated testing and deployment.
 - Explore using a framework like Nuxt.js for server-side rendering and improved SEO.
 
+
+Consider adding a contribution guide detailing how others can submit code, bug reports, or feature requests.
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
