@@ -182,3 +182,7 @@ Consider adding a contribution guide detailing how others can submit code, bug r
 
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+* Consider a robust error handling strategy for API interactions.
+* Explore integration with a CI/CD pipeline for automated testing and deployment.
+
