@@ -186,3 +186,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 * Consider a robust error handling strategy for API interactions.
 * Explore integration with a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a section for "Contribution Guidelines" to encourage community involvement.
+Explore integrating a README generator or template for consistent project documentation.
+
