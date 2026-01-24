@@ -190,3 +190,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a section for "Contribution Guidelines" to encourage community involvement.
 Explore integrating a README generator or template for consistent project documentation.
 
+
+Consider adding a `README.md` with a clear project description, installation instructions, and usage examples.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
