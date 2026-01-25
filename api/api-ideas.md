@@ -199,3 +199,8 @@ This repo could benefit from a `CONTRIBUTING.md` file outlining the process for 
 
 Consider adding a `CODE_OF_CONDUCT.md` file to foster a welcoming and inclusive community.
 
+
+New Vita project, focused on [specific application domain/purpose].
+Key technologies include [list of main technologies].
+Potential integrations with [other services/platforms].
+
