@@ -194,3 +194,8 @@ Explore integrating a README generator or template for consistent project docume
 Consider adding a `README.md` with a clear project description, installation instructions, and usage examples.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+This repo could benefit from a `CONTRIBUTING.md` file outlining the process for submitting bug reports and feature requests.
+
+Consider adding a `CODE_OF_CONDUCT.md` file to foster a welcoming and inclusive community.
+
