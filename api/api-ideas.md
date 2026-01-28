@@ -204,3 +204,7 @@ New Vita project, focused on [specific application domain/purpose].
 Key technologies include [list of main technologies].
 Potential integrations with [other services/platforms].
 
+
+* **Consider implementing CI/CD pipelines for automated testing and deployment.**
+* **Explore GraphQL as an alternative to REST for API development to improve efficiency and flexibility.**
+
