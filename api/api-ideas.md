@@ -208,3 +208,7 @@ Potential integrations with [other services/platforms].
 * **Consider implementing CI/CD pipelines for automated testing and deployment.**
 * **Explore GraphQL as an alternative to REST for API development to improve efficiency and flexibility.**
 
+
+- Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and expected code of conduct.
+- Integrate a basic CI/CD pipeline for automated testing and deployment.
+
